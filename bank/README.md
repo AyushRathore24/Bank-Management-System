@@ -20,5 +20,5 @@ Here is the live demo :  https://nautical-relations.000webhostapp.com/
 This is the screenshot of the home page of this project.
 
 
-![Screenshot (604)](https://user-images.githubusercontent.com/103444049/173177718-b285a8bf-fb15-448b-a929-15c8e152e58d.png)
+
 
